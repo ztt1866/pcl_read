@@ -1,0 +1,4 @@
+/media/ttzhou/documents/robosense/qtUi/1024/pcl_read/build/CMakeFiles/edit_cache.dir
+/media/ttzhou/documents/robosense/qtUi/1024/pcl_read/build/CMakeFiles/rebuild_cache.dir
+/media/ttzhou/documents/robosense/qtUi/1024/pcl_read/build/CMakeFiles/pcl_read.dir
+/media/ttzhou/documents/robosense/qtUi/1024/pcl_read/build/CMakeFiles/pcl_read_automoc.dir
